@@ -30,7 +30,7 @@ Lastly we created an About me Page
 
 # Links for the Deployed Page, and the Github Repo
 
-[Deployed Page]()
+[Deployed Page](https://rebeccachiquete.github.io/Ala-Carte/)
 
 [Github Repo Page](https://github.com/rebeccachiquete/Ala-Carte)
 ​
